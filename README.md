@@ -4,6 +4,9 @@ Scroll-controlled film hero + full multi-page real estate site (listings, filter
 sign-in / sign-up, saved homes, enquiries) with sample data. Runs with **no backend** (demo mode),
 and can be switched to a small included **Express API** with one command.
 
+## Live Demo
+https://velara-real-estate.digital11.workers.dev/
+
 ## Run it
 ```bash
 npm install
