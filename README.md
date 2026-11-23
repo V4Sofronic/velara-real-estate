@@ -2,6 +2,9 @@
 
 A cinematic real estate website featuring a scroll-controlled film hero, interactive property listings, advanced search filters, property detail pages, and a frontend demo shopping-style experience for discovering and saving homes.
 
+## Live Link 
+https://velara-real-estate.vercel.app/
+
 ## Features
 
 - Cinematic scroll-controlled hero experience
@@ -30,13 +33,6 @@ A cinematic real estate website featuring a scroll-controlled film hero, interac
 
 Install dependencies:
 
-<<<<<<< HEAD
-=======
-## Live Demo
-https://velara-real-estate.digital11.workers.dev/
-
-## Run it
->>>>>>> origin/main
 ```bash
 npm install
 ```
