@@ -3,3 +3,13 @@ dist
 server/db.json
 .env
 .env.local
+
+node_modules/
+dist/
+.env
+.env.local
+.env.*.local
+.vercel/
+.DS_Store
+Thumbs.db
+*.log
