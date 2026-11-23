@@ -30,6 +30,13 @@ A cinematic real estate website featuring a scroll-controlled film hero, interac
 
 Install dependencies:
 
+<<<<<<< HEAD
+=======
+## Live Demo
+https://velara-real-estate.digital11.workers.dev/
+
+## Run it
+>>>>>>> origin/main
 ```bash
 npm install
 ```
